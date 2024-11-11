@@ -26,7 +26,7 @@ A collection of production-ready scripts for Ubuntu server management and common
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ubuntu-server-toolkit.git
+git clone https://github.com/josuegrullon/ubuntu-server-toolkit.git
 
 # Make scripts executable
 cd ubuntu-server-toolkit
